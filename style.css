@@ -195,11 +195,11 @@ section {
   text-align: center;
 }
 
-.div .content .image {
+.home {
   min-height: 100vh;
   display: flex;
   align-items: center;
-  background: repeat;
+  background: url(/home\ img.png) no-repeat;
   background-size: cover;
   background-position: center;
 }
